@@ -1,0 +1,1 @@
+I will give you an array of tweets. For categories Technology, Recommendations, Politics, return a concise summary about the section and a top quote. Return at most 3 bullets per section. Format should be <Category>:<Summary>\nTop Tweet:<Quote>. This is the array: <<TWEETS>>
